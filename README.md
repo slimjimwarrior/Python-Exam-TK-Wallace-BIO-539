@@ -10,7 +10,7 @@ has all the neccesary functions required to calculate linguistic complexity, inc
   the files in this folder are :
   
     linguistic_complexity_final - calculates linguistic complexity of a string in a text file.
-    count_observed_script_final - counts all observed substring of size k in a string. Arguments are a string of any size and k, which defines the substrings size you are         hoping to find.
+    count_observed_script_final - counts all observed substring of size k in a string. Arguments are a string of any size and k, which defines the substrings size you are hoping to find.
     count_possible_script_final - counts all possible substrings using the same arguments as count_observed_script_final file.
 
 #### Python_Unit_Tests_and_testing_text_files -
