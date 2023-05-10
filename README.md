@@ -18,9 +18,9 @@ has unit tests for each python script denoted in the file name. additionally, ha
 
   the files in this folder are :
   
-   Unit_test_for_count_observed_script_final - multiple test functions for counting observed substrings
-   Unit_test_for_count_possible_script_final - multiple test functions for counting possible subtrings
-   Unit_test_for_linguistic_complexity_final - multiple test functions for calculating lingusitic complexity of a string
+   Unit_test_for_count_observed_script_final - multiple test functions for counting observed substrings.
+   Unit_test_for_count_possible_script_final - multiple test functions for counting possible subtrings.
+   Unit_test_for_linguistic_complexity_final - multiple test functions for calculating lingusitic complexity of a string.
    test_text, test_text_ATT, & singlecharacterstring - text files NEEDED to run the unit test for linguistic complexity. these need to be loaded in the same directory for the respective unit test to work.
    
 ## Notes On Use
