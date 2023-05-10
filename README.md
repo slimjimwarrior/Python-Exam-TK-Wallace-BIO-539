@@ -13,7 +13,7 @@ has all the neccesary functions required to calculate linguistic complexity, inc
     count_observed_script_final - counts all observed substring of size k in a string. Arguments are a string of any size and k, which defines the substrings size you are hoping to find.
     count_possible_script_final - counts all possible substrings using the same arguments as count_observed_script_final file.
 
-#### Python_Unit_Tests_and_testing_text_files
+### Python_Unit_Tests_and_testing_text_files
 has unit tests for each python script denoted in the file name. additionally, has example text files used for the unit tests for linguistic_complexity_final.
 
   the files in this folder are :
