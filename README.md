@@ -4,7 +4,8 @@ Repository for all python code and unit tests for python exam for BIO 539 for TK
 ## Content of Repository
 ### this repository is divided into 2 folders
 
-1. Python_script - has all the neccesary functions required to calculate linguistic complexity, including functions to calculate all observed substrings in a string and all possible subtrings in a string. the linguistic complexity script takes a text file as the argument, while the other 2 function only take a string. However, the linguistic complexity function also outputs all possible strings and all observed strings in addition the linguistic complexity proportion.
+#### Python_script 
+has all the neccesary functions required to calculate linguistic complexity, including functions to calculate all observed substrings in a string and all possible subtrings in a string. the linguistic complexity script takes a text file as the argument, while the other 2 function only take a string. However, the linguistic complexity function also outputs all possible strings and all observed strings in addition the linguistic complexity proportion.
 
   the files in this folder are :
   
