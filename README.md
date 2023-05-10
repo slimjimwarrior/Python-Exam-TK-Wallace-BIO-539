@@ -13,15 +13,15 @@ has all the neccesary functions required to calculate linguistic complexity, inc
     count_observed_script_final - counts all observed substring of size k in a string. Arguments are a string of any size and k, which defines the substrings size you are hoping to find.
     count_possible_script_final - counts all possible substrings using the same arguments as count_observed_script_final file.
 
-### Python_Unit_Tests_and_testing_text_files
+#### Python_Unit_Tests_and_testing_text_files
 has unit tests for each python script denoted in the file name. additionally, has example text files used for the unit tests for linguistic_complexity_final.
 
-  the files in this folder are :
+ the files in this folder are :
   
-   Unit_test_for_count_observed_script_final - multiple test functions for counting observed substrings.
-   Unit_test_for_count_possible_script_final - multiple test functions for counting possible subtrings.
-   Unit_test_for_linguistic_complexity_final - multiple test functions for calculating lingusitic complexity of a string.
-   test_text, test_text_ATT, & singlecharacterstring - text files NEEDED to run the unit test for linguistic complexity. these need to be loaded in the same directory for the respective unit test to work.
+  Unit_test_for_count_observed_script_final - multiple test functions for counting observed substrings.
+  Unit_test_for_count_possible_script_final - multiple test functions for counting possible subtrings.
+  Unit_test_for_linguistic_complexity_final - multiple test functions for calculating lingusitic complexity of a string.
+  test_text, test_text_ATT, & singlecharacterstring - text files NEEDED to run the unit test for linguistic complexity. these need to be loaded in the same directory for the respective unit test to work.
    
 ## Notes On Use
 
