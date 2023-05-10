@@ -15,6 +15,7 @@ Repository for all python code and unit tests for python exam for BIO 539 for TK
 2. Python_Unit_Tests_and_testing_text_files - has unit tests for each python script denoted in the file name. additionally, has example text files used for the unit tests for linguistic_complexity_final
 
   the files in this folder are :
+  
    Unit_test_for_count_observed_script_final - multiple test functions for counting observed substrings
    Unit_test_for_count_possible_script_final - multiple test functions for counting possible subtrings
    Unit_test_for_linguistic_complexity_final - multiple test functions for calculating lingusitic complexity of a string
