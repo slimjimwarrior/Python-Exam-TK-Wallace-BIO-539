@@ -28,6 +28,6 @@ has unit tests for each python script denoted in the file name. additionally, ha
 
 Remember that the intermediate function count observed and count possible functions only take a string, and k (size of target subtring). It does not take a text file. Linguistic complexity only takes a text file with a string, but it does provide all observed and possible subtrings all well as the linguistic complexity proportion
 
-Also count possible substrings functions returns the result as a float. This is because the final function uses division and when dividing integers even if the results is a float it will come out to a zero.
+Also count possible substrings functions returns the result as a float. This is because the final function uses division and when dividing integers even if the result is a float it will come out to a zero.
 
 
